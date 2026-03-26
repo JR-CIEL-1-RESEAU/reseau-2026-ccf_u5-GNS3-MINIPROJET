@@ -21,7 +21,7 @@ Copiez et collez le chemin suivant dans la barre d'adresse de votre explorateur 
 * **Application Web :** Site dynamique avec page de connexion (login), affichage de l'inventaire, ajout de matériel (Insert) et mise à jour des quantités (Update).
 * **Firewall (pfSense ou Fortinet) :** Pivot de la sécurité réseau connecté directement au serveur web.
 * **Infrastructure Cisco :** Un Routeur et un Switch émulés pour la segmentation et la distribution du LAN.
-* **Postes Clients :** Trois profils distincts (PC_A, PC_B, PC_DEV) sous forme de conteneurs Docker ou VMs Ubuntu.
+* **Postes Clients :** Trois profils distincts (PC_A, PC_B, PC_DEV) sous forme de conteneurs Docker ( post client gns3/webterm )
 
 ---
 
